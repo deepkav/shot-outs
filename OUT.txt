@@ -1,0 +1,1 @@
+C++ itself has changed very little since the last edition. However, besides the revisions just mentioned, we’ve made many smaller changes to clarify existing topics and correct typos and inaccuracies in the text
