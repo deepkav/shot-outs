@@ -1,4 +1,5 @@
 //program on counting number of blank spaces in a given file
+//NOTE:  out.txt File is needed
 #include<iostream>
 #include<fstream>
 using namespace std;
